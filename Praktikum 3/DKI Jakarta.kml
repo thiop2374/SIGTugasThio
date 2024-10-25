@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DKI Jakarta</name>
+    <NetworkLink>
+      <name>Taman Kota Jakarta</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1fhY9o_y1HGdDcdGzs_z6fT-Uexs74j0&lid=5Pr3qLLNa5c]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

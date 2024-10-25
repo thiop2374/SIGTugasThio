@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kota Depok</name>
+    <NetworkLink>
+      <name>Peta Daerah di Indonesia</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1E2oBRFefWxfhzsWnxSu4HM8Jq64NhtM&lid=LKo6rWXa4cI]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
